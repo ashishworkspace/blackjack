@@ -1,0 +1,43 @@
+body{
+    background-color: rgba(0, 75, 0, 0.849);
+}
+.container{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #fff;
+    box-sizing: border-box;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: x-large;
+}
+
+header #primary-heading{
+    color: goldenrod;
+}
+
+main{
+    margin: 20px;
+}
+main #msg{
+    padding: 10px;
+}
+
+footer .btn{
+    font-weight: bold;
+    color: green;
+    text-decoration: none;
+    border: none;
+    background-color: goldenrod;
+    width: 230px;
+    border-radius: 2px;
+    padding: 5px 0;
+    margin-bottom: 10px;
+    font-size: x-large;
+}
+
+footer #status{
+    font-size: xx-large;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+}
